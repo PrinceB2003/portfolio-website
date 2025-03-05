@@ -1,0 +1,35 @@
+body{ 
+    background-color: black; 
+    color: white;
+}
+
+
+
+img{ 
+    height: 300px;
+    width: 300px;
+}  
+
+a{ 
+    text-decoration: none;
+} 
+
+
+.home-center,.about-center,.skills-center,.proj-center,.cert-center{ 
+    display: flex; 
+    justify-content: center;
+}
+ 
+.skill-img{ 
+    display:flex
+}
+
+
+#Certs{ 
+    background-color: #CED4DA;
+}
+
+footer{ 
+    display: flex;
+    justify-content: center;
+}
